@@ -18,11 +18,11 @@
 2. Training with Training loss
 <img width="591" alt="모델2 트레이닝" src="https://user-images.githubusercontent.com/49855232/83327130-ab4d3c00-a2b4-11ea-94a8-7fd4c15adc9a.png">
 3. Test Accuracy
-<img width="599" alt="모델2 테스트 결과" src="https://user-images.githubusercontent.com/49855232/83327133-ae482c80-a2b4-11ea-8e7f-f8aea3cfe290.png">
+<img width="592" alt="모델2 테스트 데이터" src="https://user-images.githubusercontent.com/49855232/83327394-67f3cd00-a2b6-11ea-954d-494f07aab60b.png">
 4. Images and corresponding probability that predicted Right
-<img width="200" alt="모델2 예측 결과" src="https://user-images.githubusercontent.com/49855232/83327135-b1431d00-a2b4-11ea-9791-5a5074f08085.png">
+<img width="198" alt="모델2 예측" src="https://user-images.githubusercontent.com/49855232/83327396-6924fa00-a2b6-11ea-8fc0-940bb480e3cf.png">
 5. Images and corresponding probability that predicted Wrong
-<img width="549" alt="모델2 wrong" src="https://user-images.githubusercontent.com/49855232/83327137-b3a57700-a2b4-11ea-8b02-b26a855d4a3a.png">
+<img width="546" alt="모델2 wrong" src="https://user-images.githubusercontent.com/49855232/83327397-6a562700-a2b6-11ea-83cc-2134a9b89215.png">
 
 ## Model(3) 
 1. Model
